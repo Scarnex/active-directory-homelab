@@ -5,7 +5,7 @@
 This home lab includes two dedicated Network Interface Cards (NICs): one for internet access using NAT (Network Address Translation) and the other for the internal virtual machine network. The internal network's IP address is assigned within the class C range for simplicity, set to 192.168.0.1.
 
 *Figure 1: Home lab network architecture*
-![Home lab network architecture]()
+![Home lab network architecture](https://i.imgur.com/WJ4o2T1.png)
 
 I've used "mydomain.sa" as the domain name for simplicity, with ".sa" representing the country of residence.
 
